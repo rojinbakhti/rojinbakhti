@@ -2,15 +2,17 @@
 
 <!--
 **rojinbakhti/rojinbakhti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨🏻‍💻 Software Engineer
+📚 Pursuing my master's degree in Computer Science at USC
+🎓 B.S. in Computer Science
+🌏 Love contributing to open source projects
+👀 Web Development, Data, and AI enthusiast
+🔝 Lifelong learner
+💼 My LinkedIn
 -->
+- 🎓 B.S. in Computer Science and Neuroscience
+- 📚 Pursuing my master's degree in CS @ USC
+- 🧠 Currently working on some machine learning research projects
+- 👩🏻‍💻 My [Linkedin](https://www.linkedin.com/in/rojin-bakhti-2b0336133/)
+
+
